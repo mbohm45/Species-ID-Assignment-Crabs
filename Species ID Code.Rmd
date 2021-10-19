@@ -1,0 +1,276 @@
+---
+title: "Crabs Species ID Guide"
+author: "Mara Bohm, Payton Arthur, Gena Desjardins, Michael Chung"
+date: "10/18/2021"
+output:
+    pdf_document:
+        includes:
+            in_header: file.tex
+---
+
+\newpage
+
+```{r, message=FALSE, echo=FALSE, warning=FALSE}
+library(tidyverse)
+library(here)
+```
+
+\newpage
+
+# *Pagurus hirsutiusculus* (Hairy Hermit Crab)
+
+## Description
+
+Each organism can be black, brown or dark green (Meschkat et al., 2014).  Shell shape can vary but shape of the actual body is fairly consistent with the shield of the carapace (most cranial part of the back of the crab) being less long than it is wide (Jensen, 2014).  Body size can reach 2 cm (Meschkat et al., 2014).  The hairy hermit crab has hairs along its body (Meschkat et al., 2014).  However, the amount of hairs can vary from one individual to another (Jensen, 2014).  On its walking legs, these crabs have a white band by the last joint (Meschkat et al., 2014).  More white bands may be present if the individual is young (Jensen, 2014).  Also, their walking legs often have at most two blue dots on each leg though these may be more difficult to see (Meschkat et al., 2014).  Small light rings encircle their antennae (Meschkat et al., 2014).
+
+**Species lookalike**
+
+It possesses one lookalike species: *Pagurus carinus* (the greenmark hermit crab) (Meschkat et al., 2014). However, this crab lacks rings on the antennae, possesses spiny claws and has a carapace that only reaches 1 cm which is half the size as that of the hairy hermit crab (Harbo, 2011).  
+
+**Range, Habitat, Diet, Foraging Mode and Reproduction**
+
+These crabs can be found between California (Monterey) and Alaska (Pribilof Islands) (Harbo, 2011).  They live in protected areas including the intertidal zone in tidepools protected by algae (Meschkat et al., 2014; Harbo, 2011).  On the rare occasion, they may be found up to 110m subtidally (Harbo, 2011).  These crabs are detritivores, thus they eat dead organisms but will eat other live animals if available, thus making them consumers as well (Cowles, 2005b).  They actively search for food by walking around (Jensen, 2014).  They undergo sexual reproduction and are oviparous meaning they lay eggs (Kornienko, 2020).
+
+\newpage 
+
+## Figures
+
+```{r hairy-hermit, fig.align = 'left', out.width = "50%", out.height = "30%", fig.cap = "Photo of a black/dark green $\\textit{Pagurus hirsutiusculus}$ including labeled diagnostic features", fig.cap.align = 'left', echo=FALSE}
+knitr::include_graphics(here::here("images", "hairy-hermit-full-labeled.jpeg"))
+```
+
+```{r hairy-hermit-leg, fig.align = 'left', out.width = "50%", out.height = "30%",fig.cap = "Drawing of the leg of $\\textit{Pagurus hirsutiusculus}$ including labeled diagnostic features", echo=FALSE}
+knitr::include_graphics(here::here("images", "hairy-hermit-leg-drawing.jpeg"))
+```
+
+```{r hairy-hermit-juvenile, fig.align = 'left', out.width = "50%", out.height = "30%",fig.cap = "A brown juvenile $\\textit{Pagurus hirsutiusculus}$ under a dissecting microscope, demonstrating the extra white bandings", echo=FALSE}
+knitr::include_graphics(here::here("images", "baby-hairy-hermit.jpg"))
+```
+
+```{r hair-hermit-very-hairy, fig.align = 'left', out.width = "50%", out.height = "30%",fig.cap = "A green/brown $\\textit{Pagurus hirsutiusculus}$ demonstrating a substantial amount of hairs (Photo Credits: Hakai Institute, iNaturalist)", echo=FALSE}
+knitr::include_graphics(here::here("images", "iNaturalist copy.jpg"))
+```
+
+\newpage
+
+## Questions
+
+1. Are there hairs on the body?
+2. Are there white bands around the last joints of the first two legs?
+3. Are there rings circling around the antennae?
+
+\newpage
+
+# *Pagurus granosimanus* (Grainyhand Hermit Crab)
+
+## Description
+The grainyhand hermit’s has an olive-green carapace and claws that are dotted with white or blue granules (Fretwell, 2015). It has distinct solid orange antennae and prefers shells that it can completely withdraw into, often looking disproportionately large for its body (Fretwell, 2015). Shells it typically inhabits include black turban snails (*Tegula funebralis*), dire whelks (*Lirabuccinum dirum*), and frilled dogwinkle (*Nucella lamellosa*) (Fretwell, 2015). They can grow up to 2cm and select different shells as they continue to grow (Jensen, 1995).
+
+**Species lookalike**
+
+Some similar looking species such as the Bering hermit, (*Pagurus beringanus*) have red dots and bands on the legs; the hairy hermit (*Pagurus hirsutiusculus*) is covered in small hairs and has no dots; the Maroon hermit (*Pagurus hemphilli*) is dark red with white, yellow, or blue dots and light coloured leg tips; lastly, the blueband hermit has irregular, but bright blue banding near the ends of walking legs and its carapace is striped (Cowles, 2005a; Jensen, 1995).  
+
+
+
+**Range, Habitat, Diet, Foraging Mode and Reproduction**  
+
+*P. granosimanus* is common in both mid and low intertidals tidepools or under rocks on protected rocky shores (Jensen, 1995). It can also be found in larger groups on shallow sand bottoms (Jensen, 1995). The deepest recorded finding was at 36 m in the subtidal (Jensen, 1995). *P. granosimanus* is usually found lower on beaches than the hairy hermit *P. hirsutiusculus* and higher than the Bering hermit *P. beringanus* (Jensen, 1995). The grainyhand hermit can be found from northern Alaska to northern Mexico (Fretwell, 2015).  
+
+Like other members of Paguridae, *P. granosimanus* may feed on a range of foods and will sort through sediment for organic material with their mouthparts (Jensen, 1995). However, *P. granosimanus* can also filter feed with its maxillipeds, scavenge, and even prey on smaller organisms (Jensen, 1995). Its right claw is notably larger than its left, which may allow for a wider range of potential foods (Jensen, 1995).   
+
+Females of many decapod species can only mate while soft shelled (Jensen, 1995). Females approaching their molting phase are thought to release pheromones to attract males (Jensen, 1995). As noted of the different claw sizes for feeding, larger claw size differences are seen in males. This indicates that claw sizing may play an important role in mate selection as Paguridae males will drag around females awaiting their molting phase to mate (Jensen, 1995). These males will use their smaller claw to hold onto the female while warding off rival males with their larger claw (Jensen, 1995). When the female molts the male will reposition for copulation to occur and will often continue the embrace afterwards (Jensen, 1995). Females will brood their eggs in their pleopods, a set of their hind legs (Jensen, 1995). They will pick out dead eggs and even aerate them (Jensen, 1995). The female releases the eggs once ready to hatch (Jensen, 1995).  
+
+\newpage 
+
+```{r Grainyhand_size, fig.align = 'left', out.width = "50%", out.height = "30%",fig.cap = "Grainyhand hermit crab size.", echo=FALSE}
+knitr::include_graphics(here::here("images", "Grainyhand_size.png"))  
+```
+
+```{r Grainyhand_antennae, fig.align = 'left', out.width = "50%", out.height = "30%",fig.cap = "Grainyhand hermit crab antennae.", echo=FALSE}
+knitr::include_graphics(here::here("images", "Grainyhand_antennae.png"))  
+```
+
+```{r Grainyhand_blue_dots, fig.align = 'left', out.width = "50%", out.height = "30%",fig.cap = "Grainyhand hermit crab blue dots.", echo=FALSE}
+knitr::include_graphics(here::here("images", "Grainyhand_blue_dots.png"))  
+```
+```{r Grainyhand_cumbersome_shell, fig.align = 'left', out.width = "50%", out.height = "30%",fig.cap = "Grainyhand hermit crab shell, (photo credits: randimal, 2015).", echo=FALSE}
+knitr::include_graphics(here::here("images", "Grainyhand_cumbersome_shell.png"))  
+```
+\newpage
+
+## Questions:
+
+1.Is it dotted with white or blue granules?  
+2.Are the antennae solid (unbanded) and orange?  
+3.Does the shell look disproportionately large and can it withdraw completely into its shell?  
+
+\newpage
+
+# *Petrolisthes cinctipes* (Flat Porcelain Crab)  
+
+## Description  
+
+The flat porcelain crab, *Petrolisthes cinctipes*, has lots of colour variation - it can be light brown, reddish brown, dark brown, brown with a blue tinge or a vibrant blue colour (Jensen, 1995). It is also variable in size, with carapace width reaching up to 24 mm. This small intertidal shore crab has orange-red mouth parts and claw spots, as well as distinctly red antennae. The walking legs of *P. cinctipes* have small uncalcified windows along the joints. They frequently have one claw with a gap between the pincers (the purpose of which is unknown) and small round punctures along the claws from fighting with its rock-mates for space (Jensen, 1995).  
+Easily mistaken for the flattop porcelain crab, *P. cabrilloi*, these two species can be distinguished from one another through two key characteristics (Jensen, 2014). Firstly, *P. cinctipes* has hairless or limited hair on its walking legs and the carapus of its claws, while *P. cabrilloi* has distinctly hairy claws and legs. Secondly, the flattop is more common in sheltered areas, while the flat porcelain tends to avoid the fine sedimentation found in those areas. As such, *P. cinctipes* tends to be found in more rocky, wave-exposed areas (Jensen, 2014).  
+
+
+**Range, Habitat, Diet, Foraging Mode and Reproduction**  
+
+Flat porcelain crabs are found throughout the Pacific Northwest. Their range spans from Porcher Island, British Columbia to Santa Barbara, California (Fretwell, K., 2014). They live under rocks in the upper and middle intertidal, but generally avoid fine sediment. Due to this aversion to sand, they are primarily restricted to upper levels of beaches. Furthermore, they are often very abundant in California sea mussel beds (Fretwell, K., 2014).  
+
+*P. cinctipes* is a fairly omnivorous species (Cowles, 2006). They feed most frequently on plankton and detritus suspended in the water column. Flat porcelain crabs catch these small particles by waving their feather-like mouthparts, called maxillipeds and found on the underside of their head, through the water. *P. cinctipes* also occasionally eat macroalgae (seaweed) and dead animal tissue (Cowles, 2006).  
+
+*P. cinctipes* sexually reproduces continuously in California and in the spring in Puget Sound (Cowles, 2006). When ready to hatch, a fertilized egg clutch is laid by the female and is initially bright red, before fading to brownish red. A single egg clutch is often fertilized by multiple males, which is likely a reproductive advantage as it facilitates genetic diversity (Yockachonis, T., 2020).   
+
+
+\newpage 
+
+## Figures
+
+```{r porcelain.base, fig.align = 'left', out.width = "50%", out.height = "30%", fig.cap = "This is the underside of the flat porcelain crab.", fig.cap.align = 'left', echo=FALSE}
+knitr::include_graphics(here::here("images", "porcelain.base.png"))  
+```
+
+```{r blue.porcelain, fig.align = 'left', out.width = "50%", out.height = "30%",fig.cap = "A blue flat porcelain crab to show morphological diversity (photo credits: Jamie Kish, iNaturalist).", echo=FALSE}
+knitr::include_graphics(here::here("images", "porcelain.blue.png"))  
+```
+
+```{r porcelain.carapace, fig.align = 'left', out.width = "50%", out.height = "30%",fig.cap = "This is the top view of the flat porcelain crab.", echo=FALSE}
+knitr::include_graphics(here::here("images", "porcelain.carapce.png"))  
+```
+
+```{r porcelain.claws, fig.align = 'left', out.width = "50%", out.height = "30%",fig.cap = "This is the front view of the flat porcelain crab to highlight claw shape and colour.", echo=FALSE}
+knitr::include_graphics(here::here("images", "porcelain.claws.png"))  
+```
+\newpage
+
+## Questions
+
+1. Is it a small (up to 24mm in body carapace length) intertidal crab with obnoxiously large claws? Yes - go to question 2.  
+2. Is it reddish brown, dark brown or blue with distinctly red antennae? Yes - go to question 3.  
+3. Does it have distinctly hairy legs and claws? No - this is *P. cinctipes*.  
+
+\newpage 
+
+
+# *Hemigrapsus oregonensis* (Hairy shore crab)
+
+## Description
+
+*Hemigrapsus oregonensis* has 5 pairs of legs, one of which are modified to act as claws; this is a trait of a “true crab” (Harbo, 2011). They have a hard top shell called a carapace that grows to a max of 5 cm in width and displays a wide variety of colouring and patterns (Harbo, 2011; Jensen, 1995). *H. oregonensis* is morphologically defined as having a notch between their eyes and three pairs of teeth along the side of their carapace (Jensen, 2014) This species also has short hairs found on the walking legs and white claws that can be used to differentiate from other shore crabs  (Jensen, 2014).   
+
+Hairy shore crabs can be dark green to grayish with some displaying white or even purple on their square carapace (Jensen, 1995). Polymorphism and the disruptive colouration of the morphs allow for *H. oregonensis* to camouflage within their environment by breaking up the outline of their carapace (Jesen & Egnotovich, 2015) Younger individuals tend to show more variation compared to adults, and darker morphs have the ability to alter their colouration later on in their lifecycle (Jensen & Egnotovich, 2015).   
+
+**Species lookalike** 
+*H. oregonensis* has similar morphology to *Hemigrapsus nudus*. *H. nudus* commonly known as the purple shore crab has purple morphs and dark spots on their modified legs (Harbo, 2011). Compared to the *H. oregonensis* the walking legs lack the setae that give the hairy look (Harbo, 2011)   
+
+
+**Range, Habitat, Diet, Foraging Mode and Reproduction**  
+The *H. oregonensis* is a common species that ranges from Alaska to California baja, Mexico (Harbo, 2011). This species can be found in the low intertidal zones on mud or sand flats (Jensen &Egnotovich, 2015). They tend to hide under rocks in less exposed areas (Jensen, 1995). Hairy shore crabs were abundant on the rocky shores of Scotts bay in Bamfield, British Columbia, where their habitat was composed of a large variety of coloured rocks. These crabs are detritivores that consume algae and smaller invertebrates, they also are filter feeders and act as consumers within the food web. (Jensen, 1995). Their broad diet classifies them as generalists, this reduces the stress on resources within an ecosystem. As scavengers they are also important for  reducing the amount of dead organic matter that is found within the ecosystem thus keeping it clean and non toxic for other organisms.  
+
+This species has distinct individuals that either produce female or male gametes. They are oviparous and reproduce sexually. Research has found that females reach sexual maturity when their carapace is 10cm in width, but little is known about males (Jensen & Egnotovich, 2015). Females can produce two broods per year, each brood can contain 800 to 11,000 embryos (Strathmann, 2017).  
+  
+
+\newpage 
+
+## Figures
+
+```{r crab-water-colour, fig.align = 'left', out.width = "50%", out.height = "30%", fig.cap = " Diagram of the key characteristics of $\\textit{H.oregonensis}$", fig.cap.align = 'left', echo=FALSE}
+knitr::include_graphics(here::here("images", "hairyshorecrabdiagram.jpg"))  
+```
+
+```{r crab-diversity, fig.align = 'left', out.width = "50%", out.height = "30%", fig.cap = "Diagram of the hairy shore crab colour variation", fig.cap.align = 'left', echo=FALSE}
+knitr::include_graphics(here::here("images", "hairs_shore_crab_colour_variation.jpg"))  
+```
+
+```{r crab-in-hand, fig.align = 'left', out.width = "50%", out.height = "30%",fig.cap = "Dark morph of a male hairy shore crab", echo=FALSE}
+knitr::include_graphics(here::here("images", "hairy-shore-crab.jpg"))  
+```
+
+\newpage
+
+## Questions
+
+1.Does the carapace have 3 teeth?  
+2. Are the tips of the pinchers white or slightly yellow?  
+3.Does this organism have little hairs (setae) found on its legs?
+
+\newpage
+
+## References  
+
+Cowles, D. (2005a). *Pagurus granosimanus* (Stimpson, 1858). Retrieved October 17, 2021, from https://inverts.wallawalla.edu/Arthropoda/Crustacea/Malacostraca/Eumalacostraca/Eucarida/Decapoda/Anomura/Family_Paguridae/Pagurus_granosimanus.html.   
+
+Cowles, D. (2005b). *Pagurus hirsutiusculus* (Dana, 1851).  Retrieved October 16, 2021, from https://inverts.wallawalla.edu/Arthropoda/Crustacea/Malacostraca/Eumalacostraca/Eucarida/Decapoda/Anomura/Family_Paguridae/Pagurus_hirsutiusculus.html  
+
+Cowles, D. (2006). *Petrolisthes cinctipes* (Randall, 1839). Retrieved October 17, 2021, from https://inverts.wallawalla.edu/Arthropoda/Crustacea/Malacostraca/Eumalacostraca/Eucarida/Decapoda/Anomura/Family_Porcellanidae/Petrolisthes_cinctipes.html   
+
+Fretwell, K. (2015). *Grainyhand hermit - Pagurus granosimanus*. Biodiversity of the Central Coast. Retrieved October 17, 2021, from https://www.centralcoastbiodiversity.org/grainyhand-hermit-bull-pagurus-granosimanus.html.   
+
+Fretwell, K., Starzomski, B. (2014). *Flat porcelain crab.* Retrieved October 17, 2021, from https://www.centralcoastbiodiversity.org/flat-porcelain-crab-bull-petrolisthes-cinctipes.html   
+
+Harbo, R. M. 2011. *Whelks to whales*. Harbour Publishing Co. Ltd.  
+
+Jensen, G. C. (2014). *Crabs and shrimps of the Pacific coast*. MolaMarine.  
+
+Jensen, G. C. (1995). *Pacific coast crabs and shrimps*. Sea Challengers. 
+
+Jensen, G. C., & Egnotovich, M. S. (2015). A whiter shade of male: Color background matching as a function of size and sex in the Yellow Shore Crab Hemigrapsus oregonensis (Dana, 1851). *Current Zoology*, 61(4), 729–738. https://doi.org/10.1093/czoolo/61.4.729 
+Kornienko, E. S. (2020). The reproductive strategy of hermit crabs in temperate waters. *Russian Journal of Marine Biology*, 46(5), 319–329. https://doi.org/10.1134/S1063074020050053   
+
+Meschkat, C., Fretwell, K., & Starzomski, B. (2014). *Hairy hermit crab*. Retrieved October 16, 2021, from https://www.centralcoastbiodiversity.org/hairy-hermit-crab-bull-pagurus-hirsutiusculus.html   
+
+Strathmann, M. F. (2017). *Reproduction and development of marine invertebrates of the Northern Pacific coast data and methods for the study of eggs, embryos, and larvae.* University of Washington Press.   
+
+Yockachonis, T., McKeon, C. S., Windsor, A. M., Stillman, J. H. (2020). Multiple paternity in the intertidal zone porcelain crab *Petrolisthes cinctipes* Randall, 1840 (Decapoda: Anomura: Porcellanidae) is a life-history strategy that increases fitness during heat stress. *Journal of Crustacean Biology*, 40(6), 684–691. https://doi.org/10.1093/jcbiol/ruaa071  
+
+\newpage
+
+# Supplemental Information
+
+```{r summary-table, fig.align = 'left', out.width = "90%", out.height = "80%", fig.cap = "Table 1: A summary of measurements collected in field, morphology, trophic role, diet and reproduction for the four species of crabs", fig.cap.align = 'left', echo=FALSE}
+knitr::include_graphics(here::here("images", "summary-table.png"))
+```
+
+## Figures
+
+```{r, echo = FALSE, fig.cap= "Shell length and claw length compared by species in hermit crabs.", message = FALSE, out.width = "50%", out.height = "50%"}
+
+hermit_data = read_csv(here("./data/hermit-size-data.csv"))
+hermit_plot = ggplot(data = hermit_data) +
+  geom_point(aes(x = shell_length_mm, y = claw_length_mm, fill = Species), 
+             colour = "black", 
+             size = 3, 
+             shape = 21) +
+  theme_bw() +
+  labs(x = "Shell Length (mm)", y = "Claw Length (mm)")
+hermit_plot
+```
+
+```{r, echo = FALSE, fig.cap= "Carapace length and width compared by species of shore crabs.", message = FALSE, out.width = "50%", out.height = "50%"}
+
+carapace_data = read_csv(here("./data/shore-carapace-data.csv"))
+carapace_plot = ggplot(data = carapace_data) +
+  geom_point(aes(x = carapace_length_mm, y = carapace_width_mm, fill = Species), 
+             colour = "black", 
+             size = 3, 
+             shape = 21) +
+  theme_bw() +
+  labs(x = "Carapace Length (mm)", y = "Carapace Width (mm)")
+carapace_plot
+```
+
+```{r, echo = FALSE, fig.cap= "Number of spines and claw length compared by species of shore crabs.", message = FALSE, out.width = "50%", out.height = "50%"}
+
+shore_data = read_csv(here("./data/shore-carapace-data.csv"))
+shore_plot = ggplot(data = shore_data) +
+  geom_point(aes(x = ridge_number, y = claw_length_mm, fill = Species), 
+             colour = "black", 
+             size = 3, 
+             shape = 21) +
+  theme_bw() +
+  labs(x = "Number of Ventral Ridges", y = "Claw Length (mm)")
+shore_plot
+```
+
+

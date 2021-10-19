@@ -1,6 +1,6 @@
 ---
 title: "Species ID Guide Template"
-author: "Cole Brookson"
+author: "Mara Bohm"
 date: "10/13/2021"
 output:
     pdf_document:
@@ -10,65 +10,48 @@ output:
 
 \newpage
 
-# *Eubalaena australis* (Southern right whale)
+# *Petrolisthes cinctipes* (Flat Porcelain Crab)
 
 ## Description
 
-These stocky whales have extremely large heads, which can be over one-fourth of the body length. The mouthline is bowed and the rostrum is arched. Text text text text. **Bold text bold text bold text.** *Italicized text italicized text italicized text*. Text text text text. **Bold text bold text bold text.** *Italicized text italicized text italicized text*. Text text text text. **Bold text bold text bold text.** *Italicized text italicized text italicized text*. Text text text text. **Bold text bold text bold text.** *Italicized text italicized text italicized text*. Text text text text. **Bold text bold text bold text.** *Italicized text italicized text italicized text*. Text text text text. **Bold text bold text bold text.** *Italicized text italicized text italicized text*. Text text text text. **Bold text bold text bold text.** *Italicized text italicized text italicized text*. Text text text text. **Bold text bold text bold text.** *Italicized text italicized text italicized text*. Text text text text. **Bold text bold text bold text.** *Italicized text italicized text italicized text*. Text text text text. **Bold text bold text bold text.** *Italicized text italicized text italicized text*. Text text text text. **Bold text bold text bold text.** *Italicized text italicized text italicized text*. 
+The flat porcelain crab, *Petrolisthes cinctipes*, has lots of colour variation - it can be light brown, reddish brown, dark brown, brown with a blue tinge or a vibrant blue colour (Jensen, 1995). It is also variable in size, with carapace width reaching up to 24 mm. This small intertidal shore crab has orange-red mouth parts and claw spots, as well as distinctly red antennae. The walking legs of *P. cinctipes* have small uncalcified windows along the joints. They frequently have one claw with a gap between the pincers (the purpose of which is unknown) and small round punctures along the claws from fighting with its rock-mates for space (Jensen, 1995).
+Easily mistaken for the flattop porcelain crab, *P. cabrilloi*, these two species can be distinguished from one another through two key characteristics (Jensen, 2014). Firstly, *P. cinctipes* has hairless or limited hair on its walking legs and the carapus of its claws, while *P. cabrilloi* has distinctly hairy claws and legs. Secondly, the flattop is more common in sheltered areas, while the flat porcelain tends to avoid the fine sedimentation found in those areas. As such, *P. cinctipes* tends to be found in more rocky, wave-exposed areas (Jensen, 2014).
+
+Flat porcelain crabs are found throughout the Pacific Northwest. Their range spans from Porcher Island, British Columbia to Santa Barbara, California (Fretwell, K., 2014). They live under rocks in the upper and middle intertidal, but generally avoid fine sediment. Due to this aversion to sand, they are primarily restricted to upper levels of beaches. Furthermore, they are often very abundant in California sea mussel beds (Fretwell, K., 2014).
+
+P. cinctipes is a fairly omnivorous species (Cowles, 2006). They feed most frequently on plankton and detritus suspended in the water column. Flat porcelain crabs catch these small particles by waving their feather-like mouthparts, called maxillipeds and found on the underside of their head, through the water. P. cinctipes also occasionally eat macroalgae (seaweed) and dead animal tissue (Cowles, 2006).
+
+P. cinctipes sexually reproduces continuously in California and in the spring in Puget Sound (Cowles, 2006). When ready to hatch, a fertilized egg clutch is laid by the female and is initially bright red, before fading to brownish red. A single egg clutch is often fertilized by multiple males, which is likely a reproductive advantage as it facilitates genetic diversity (Yockachonis, T., 2020). 
+
 
 \newpage 
 
 ## Figures
 
-```{r southern-right-whale, fig.align = 'left', out.width = "50%", out.height = "30%", fig.cap = "This is the southern right whale, figure is centered.", fig.cap.align = 'left', echo=FALSE}
-knitr::include_graphics(here::here("images", "southern-right.png"))
+```{r porcelain.base, fig.align = 'left', out.width = "50%", out.height = "30%", fig.cap = "This is the underside of the flat porcelain crab, figure is centered.", fig.cap.align = 'left', echo=FALSE}
+knitr::include_graphics(here::here("images", "porcelain.base.png"))
 ```
 
-```{r southern-right-whale-skull, fig.align = 'left', out.width = "50%", out.height = "30%",fig.cap = "This is the skull of the southern right whale skull (dorsal view), figure is left-aligned.", echo=FALSE}
-knitr::include_graphics(here::here("images", "southern-right-skull.png"))
+```{r blue.porcelain, fig.align = 'left', out.width = "50%", out.height = "30%",fig.cap = "A blue flat porcelain crab to show morphological diversity, figure is left-aligned.", echo=FALSE}
+knitr::include_graphics(here::here("images", "porcelain.blue.png"))
 ```
 
-```{r southern-right-whale-skull-lateral, fig.align = 'left', out.width = "50%", out.height = "30%",fig.cap = "This is the skull of the southern right whale skull (lateral view), figure is left-aligned.", echo=FALSE}
-knitr::include_graphics(here::here("images", "southern-right-skull-lateral.png"))
+```{r porcelain.carapace, fig.align = 'left', out.width = "50%", out.height = "30%",fig.cap = "This is the top view of the flat porcelain crab, figure is left-aligned.", echo=FALSE}
+knitr::include_graphics(here::here("images", "porcelain.carapace.png"))
+```
+
+```{r porcelain.claws, fig.align = 'left', out.width = "50%", out.height = "30%",fig.cap = "This is the front view of the flat porcelain crab to highlight claw shape and colour, figure is left-aligned.", echo=FALSE}
+knitr::include_graphics(here::here("images", "porcelain.claws.png"))
 ```
 
 \newpage 
 
 ## Questions
 
-1. Very interesting and useful question 
-2. Another wildly helpful question
-3. A third, MOST fascinating question
+1. Is it a small (up to 24mm in body carapace length) intertidal crab with obnoxiously large claws? Yes - go to question 2.
+2. Is it reddish brown, dark brown or blue with distinctly red antennae? Yes - go to question 3.
+3. Does it have distinctly hairy legs and claws? No - this is P. cinctipes.
 
-# *Balaena mysticetus* (Bowhead whale)
-
-## Description
-
-Bowhead whales are very rotund, but often have a distinct "neck" region. The head is large... Text text text text. **Bold text bold text bold text.** *Italicized text italicized text italicized text*. Text text text text. **Bold text bold text bold text.** *Italicized text italicized text italicized text*. Text text text text. **Bold text bold text bold text.** *Italicized text italicized text italicized text*. Text text text text. **Bold text bold text bold text.** *Italicized text italicized text italicized text*. Text text text text. **Bold text bold text bold text.** *Italicized text italicized text italicized text*. Text text text text. **Bold text bold text bold text.** *Italicized text italicized text italicized text*. Text text text text. **Bold text bold text bold text.** *Italicized text italicized text italicized text*. Text text text text. **Bold text bold text bold text.** *Italicized text italicized text italicized text*. Text text text text. **Bold text bold text bold text.** *Italicized text italicized text italicized text*. Text text text text. **Bold text bold text bold text.** *Italicized text italicized text italicized text*. Text text text text. **Bold text bold text bold text.** *Italicized text italicized text italicized text*. Text text text text. **Bold text bold text bold text.** *Italicized text italicized text italicized text*. 
-
-\newpage 
-
-## Figures
-
-```{r bowhead-whale, fig.align = 'centered', out.width = "50%", out.height = "30%", fig.cap = "This is the bowhead whale, figure is centered.", echo=FALSE}
-knitr::include_graphics(here::here("images", "bowhead.png"))
-```
-
-```{r bowhead-whale-skull, fig.align = 'centered', out.width = "50%", out.height = "30%", fig.cap = "This is the skull of the bowhead whale skull, figure is centered.", echo=FALSE}
-knitr::include_graphics(here::here("images", "bowhead-skull.png"))
-```
-
-```{r bowhead-whale-skull-lateral, fig.align = 'centered', out.width = "50%", out.height = "30%", fig.cap = "This is the skull of the bowhead whale skull, figure is centered.", echo=FALSE}
-knitr::include_graphics(here::here("images", "bowhead-skull-lateral.png"))
-```
-
-\newpage 
-
-## Questions
-
-1. Very interesting and useful question 
-2. Another wildly helpful question
-3. A third, MOST fascinating question
 
 \newpage
 
